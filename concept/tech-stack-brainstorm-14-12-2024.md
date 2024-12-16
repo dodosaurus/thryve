@@ -5,7 +5,7 @@
 ### Initial thoughts
 To v akom tech stacku sa bude robit appka ovplyvni komplexnost a v konecom dosledku cas, za ktory sa vyroby prva funkcna verzia produktu.
 
-### React Native
+### Rozbor - React Native
 PROS:
 - Typescript
 - skoro ako Next JS
@@ -19,7 +19,7 @@ CONS:
 - sme obmedzeny tym ze nie sme v game engine - animacie, tilesety, fyzika; ma predpripravene objekty (nodes) pre postavy, fyzikalne objekty v 2D priestore
 - mozno bude niektore veci problematickejsie vyvinut, kedze IDE bude cisto code editor; nie je to ako v Unity/Godote
 
-### Godot
+### Rozbor - Godot
 PROS:
 - herny engine, prisposbeny na vyvoj hry v pixel grafike (fyzika, animacie, tileset nastroje a pod.) - je to big deal
 
