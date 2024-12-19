@@ -25,7 +25,12 @@ PROS:
 
 CONS:
 - GDScript, ktory neovladam
+- IDE ktore neovladam
 - vyvojove prostredie Godot ktore neovladam
 (= learning overhead velky asi)
 - absencia AI autocompletion a pomocnych agentov
 
+
+Ten cas, ktory budem potrebovat na Godot bude dost velky. Trebalo by viacero projektov podla YT spravit. LEbo len robenim projektov sa clovek uci kodit hlavne.
+
+S Reactom (aj ked toto je React Native) som uz robil viac krat a mam aj celko mkomplikovane projekty uz za sebou, ako aj Endurance Vault. V reale MVP bude hotovy skor v React Native.

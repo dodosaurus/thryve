@@ -22,8 +22,7 @@ V tomto dokumente skusim zanalyzovat tento problem. Berieme sucasnu verziu napad
 1. tvare a stotoznenie sa s "hrdinom"
 2. spoznavanie a prezentacia world tour cyklistiky
 3. lahke robit card art - lebo ustrednym bodom ma byt postava/clovek
+4. stale to je prijemna tema pre cyklistov, ktori su druha najvacsia skupina pouzivatelov stravy
 
 ### Nevyhody - WT cyklisti ako hlavna zlozka
 1. ludia, ktori nemaju radi/nepoznaju vobec profi cyklistiku, mozu byt odradeni
-
-
