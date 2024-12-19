@@ -17,9 +17,10 @@ Ak by nasa appka mala byt len lepsi Endurance Vault, ktore veci by mali byt leps
   - baliky by sa mohli dat otvarat aj automaticky ked prejde nejaky cas - cize kazdy den by mohol pribudnut jeden balik, aby user mal co robit, cize by tam bol aj casovy counter ako v Pokemon TCG
 5. design celkovo musi byt lepsie spraveny a naplanovany - pouzit Figmu?
 6. lepsi auth. flow - mali by sme si usra ulozit aj pod nasim token v nasej appke - hoci cez Google/Apple SSO, az potom pytat pripojenie Stravy
-7. performance by mal byt dobry na priemernom zariadeni dnesnej doby
-8. efektivne fetchovanie aktivit - mozno by sme ani nemuseli fetchovat aktivity, ako skor len celkove cislo nejake zo statistik. Treba hlavne ale fetchovania nalepit len na komponenty ktore to potrebuju, nerobit cakanie na vlak a vsetko komponenty musi cakat aj user na loading indikatore.
+7. lepsie nacitavanie hlavne artu kariet - vsetko by malo byt ulozene nejakym stylom na klientovi (teda v mobile), progress sa bude ale nejak lahucko syncovat na DB na cloude
+8. efektivne fetchovanie aktivit - mozno by sme ani nemuseli fetchovat aktivity, ako skor len celkove cislo nejake zo statistik. Treba hlavne ale fetchovania nalepit len na komponenty ktore to potrebuju, nerobit cakanie na vlak a vsetko komponenty musi cakat aj user na loading indikatore
 
-### Konkretne zdroje
+### Konkretne zdroje/tech stack
 
-- na panning mechanizmus pre balik aj karty mozme pouzit https://www.youtube.com/watch?v=msErROjFY08&t=31s React Native Filament
+- na panning mechanizmus pre balik aj karty mozme pouzit React Native Filament, Three.js, Skia (dalsie napady tu https://www.youtube.com/watch?v=msErROjFY08&t=31s)
+- user management s Clerkom? (tam vieme priamo pouzit uz Google SSO)
